@@ -1,7 +1,7 @@
 Market Place Hackathon
 Welcome to the Market Place Hackathon repository! This project demonstrates a feature-rich marketplace platform with dynamic functionalities and an intuitive user interface. It integrates modern web technologies for an engaging user experience.
 
-Features
+Features:
 Dynamic Product Management: Add, update, and view product details seamlessly.
 Interactive UI: Built with Next.js for a responsive and dynamic interface.
 Third-Party API Integrations:
